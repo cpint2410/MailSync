@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MailSync.API/MailSync.API.csproj" />
+  <Project Path="MailSync.Application/MailSync.Application.csproj" />
+  <Project Path="MailSync.Domain/MailSync.Domain.csproj" />
+  <Project Path="MailSync.Infrastructure/MailSync.Infrastructure.csproj" />
+  <Project Path="MailSync.Worker/MailSync.Worker.csproj" />
+</Solution>

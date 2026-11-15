@@ -1,0 +1,15 @@
+C:\Users\chpin\MailSync\MailSync.Application\bin\Debug\net11.0\MailSync.Application.deps.json
+C:\Users\chpin\MailSync\MailSync.Application\bin\Debug\net11.0\MailSync.Application.dll
+C:\Users\chpin\MailSync\MailSync.Application\bin\Debug\net11.0\MailSync.Application.pdb
+C:\Users\chpin\MailSync\MailSync.Application\bin\Debug\net11.0\MailSync.Domain.dll
+C:\Users\chpin\MailSync\MailSync.Application\bin\Debug\net11.0\MailSync.Domain.pdb
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.Application.csproj.AssemblyReference.cache
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.Application.AssemblyInfoInputs.cache
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.Application.AssemblyInfo.cs
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.Application.csproj.CoreCompileInputs.cache
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.D8D56FCB.Up2Date
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.Application.dll
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\refint\MailSync.Application.dll
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\MailSync.Application.pdb
+C:\Users\chpin\MailSync\MailSync.Application\obj\Debug\net11.0\ref\MailSync.Application.dll

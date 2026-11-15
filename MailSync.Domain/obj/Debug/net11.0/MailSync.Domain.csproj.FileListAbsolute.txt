@@ -1,0 +1,12 @@
+C:\Users\chpin\MailSync\MailSync.Domain\bin\Debug\net11.0\MailSync.Domain.deps.json
+C:\Users\chpin\MailSync\MailSync.Domain\bin\Debug\net11.0\MailSync.Domain.dll
+C:\Users\chpin\MailSync\MailSync.Domain\bin\Debug\net11.0\MailSync.Domain.pdb
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\MailSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\MailSync.Domain.AssemblyInfoInputs.cache
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\MailSync.Domain.AssemblyInfo.cs
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\MailSync.Domain.csproj.CoreCompileInputs.cache
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\MailSync.Domain.dll
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\refint\MailSync.Domain.dll
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\MailSync.Domain.pdb
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\ref\MailSync.Domain.dll
+C:\Users\chpin\MailSync\MailSync.Domain\obj\Debug\net11.0\MailSync.9FDB973A.Up2Date
